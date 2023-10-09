@@ -1,0 +1,17 @@
+{
+  "name": "js---learnings",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "email-validator": "^2.0.4",
+    "jsonwebtoken": "^9.0.2",
+    "password-validator": "^5.3.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {}
+}

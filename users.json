@@ -1,0 +1,23 @@
+[
+    {
+        "id": "b95cab32-2df1-49eb-a66f-00a4b51d86db",
+        "name": "fg",
+        "email": "muhammed.ayyub11@tatadigital.com",
+        "password": "$2b$10$ouaOs95XNz4pL/S9knvaO.aMGQ3xnpFLkGhhTdhKrzVktlntd7KaG",
+        "age": 23
+    },
+    {
+        "id": "a2f199d1-b6dd-43b7-8f95-4141a30e5330",
+        "name": "Ayyub",
+        "email": "muhammed.ayyub@tatadigital.com",
+        "password": "$2b$10$2TfID00FAarLuK1cJ412jOJjq.mdNZr2nBqQqaJOanK80VBdQhjyS",
+        "age": 23
+    },
+    {
+        "id": "c8c56f14-bfe3-43c7-905f-32c90ee69490",
+        "name": "Ayyub",
+        "email": "muhammed.ayyub1@tatadigital.com",
+        "password": "$2b$10$./TBP80UXNegAKvEnN8MA.Bld4DuQeCjXJx/hD3gT3GBL1O5p5EMW",
+        "age": 23
+    }
+]

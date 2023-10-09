@@ -1,0 +1,38 @@
+[
+    {
+        "id": "b6bc3aaf-e367-4b95-b693-ed96b52c0648",
+        "user_id": "b95cab32-2df1-49eb-a66f-00a4b51d86db",
+        "description": "0",
+        "priority": 2,
+        "priority_history": [
+            {
+                "priority": 1,
+                "timestamp": "2023-10-06T11:08:49.273Z"
+            },
+            {
+                "priority": 2,
+                "timestamp": "2023-10-09T10:00:17.654Z"
+            }
+        ],
+        "status": "done",
+        "status_history": [
+            {
+                "status": "to-do",
+                "timestamp": "2023-10-06T11:08:49.273Z"
+            },
+            {
+                "status": "done",
+                "timestamp": "2023-10-09T09:45:14.847Z"
+            },
+            {
+                "status": "to-do",
+                "timestamp": "2023-10-09T09:45:30.892Z"
+            },
+            {
+                "status": "done",
+                "timestamp": "2023-10-09T09:56:07.896Z"
+            }
+        ],
+        "created_timestamp": "2023-10-06T11:08:49.273Z"
+    }
+]
